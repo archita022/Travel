@@ -1,0 +1,71 @@
+.contactForm {
+    height: 600px;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: orange;
+    border-radius: 10px;
+    margin-top: 30px; 
+    margin-bottom: 30px;
+  }
+  
+  .contactHeading {
+    text-align: center;
+    color: #fff;
+    font-size: 28px;
+    margin-bottom: 18px;
+  }
+  
+  .contactBox {
+    padding: 20px;
+    background: white; 
+    border-radius: 10px;
+  }
+  
+  .nameLabel,
+  .emailLabel,
+  .messageLabel {
+    display: inline-block;
+    margin-bottom: 5px;
+  }
+  
+  .nameBox,
+  .emailBox {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid wheat;
+    border-radius: 30px;
+    font-size: 16px;
+  }
+  
+  .messageBox{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid wheat;
+    border-radius: 3px;
+    font-size: 16px;
+    max-height: 250px;
+  
+  
+  }
+  
+  .submitButton {
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    border: none;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .submitButton:hover {
+    opacity: 0.8;
+  }
+  

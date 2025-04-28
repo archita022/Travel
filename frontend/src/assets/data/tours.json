@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Westminster, England",
+    "city": "London",
+    "address": "Somewhere in England",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Famous for Big Ben, Buckingham Palace, and Westminster Abbey, it’s a must-visit for lovers of history and royalty. A prime spot for classic London sightseeing and photo moments.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kandooma Island",
+    "city": "Maldives",
+    "address": "Somewhere in Maldives",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Known for its crystal-clear waters, white sandy beaches, and luxurious overwater villas. A paradise for snorkeling, diving, and relaxing in tropical bliss.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": " Jammu and Kashmir",
+    "city": "India",
+    "address": "Somewhere in India",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Famous for its breathtaking landscapes, snow-capped mountains, and serene lakes like Dal Lake. A perfect destination for nature lovers, adventure seekers, and cultural explorers.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bangkok, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Known for its vibrant street life, ornate temples, and bustling markets. A hotspot for food lovers, nightlife explorers, and cultural adventurers.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Nusa Penida Island",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Famous for its dramatic cliffs, crystal-clear waters, and iconic spots like Kelingking Beach. A must-visit for beach lovers, snorkelers, and those seeking Bali’s hidden gems.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Tokyo, Japan",
+    "city": "Tokyo",
+    "address": "Somewhere in Japan",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Renowned for its blend of futuristic tech, ancient temples, and vibrant street culture. A dream destination for foodies, shoppers, and culture enthusiasts.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Holmen Lofoten",
+    "city": "Norway",
+    "address": "Somewhere in Norway",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Famous for its stunning fjords, picturesque fishing villages, and incredible Northern Lights views. A perfect destination for nature lovers and adventure seekers.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": false
+  },
+  {
+    "title": "Cappadocia",
+    "city": "Turkey",
+    "address": "Somewhere in Turkey",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "Famous for its surreal landscapes, fairy chimneys, and hot air balloon rides over stunning valleys. A unique destination for adventure, history, and breathtaking natural beauty.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "Seoul, South Korea",
+    "city": "Seoul",
+    "address": "Somewhere in South Korea",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "A vibrant mix of modern skyscrapers, ancient palaces, and bustling markets. A must-visit for tech enthusiasts, history lovers, and food explorers.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+  {
+    "title": "Serengeti, Africa",
+    "city": "Tanzania",
+    "address": "Somewhere in Africa",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "World-renowned for its vast savannahs and the spectacular annual wildebeest migration. A top destination for wildlife safaris and nature enthusiasts.",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img10.jpg",
+    "featured": true
+  }
+]

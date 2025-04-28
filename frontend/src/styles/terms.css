@@ -1,0 +1,31 @@
+.tandcheading{
+    padding: 10px;
+    text-align: center;
+    background-color: orange;
+    color: #fff;
+}
+.tandc_h2 {
+    color: orange;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+}
+.tandc_ul {
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+}
+.tandc_li {
+    margin-bottom: 0.5rem;
+}
+.tandc_p{
+    padding-bottom: 30px;
+    border-bottom: 20px solid orange;
+}
+.tandc_link {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.tandc_link:hover {
+    text-decoration: underline;
+}
